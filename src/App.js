@@ -1,8 +1,8 @@
-mport {palette} from './components/palette';
+import { Calculator } from './components/Calc';
 function App() {
   return (
     <div className="App">
-      <palette />
+     <Calculator/>
     </div>
   );
 }
